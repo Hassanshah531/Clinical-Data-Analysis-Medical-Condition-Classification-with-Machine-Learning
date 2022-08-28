@@ -1,0 +1,3 @@
+Drug Review Dataset (Drugs.com) Data Set
+https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018
